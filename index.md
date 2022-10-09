@@ -1,5 +1,5 @@
-Here you can say lots of fun things about your site.
+This is my Qwandorium space
 
-Maybe say a some things about yourself.
+I will write about what I remember, trying to implement systems to improve myself
 
-Or maybe what you plan to blog about.
+Trying to get around doing my hobbies seriously.
