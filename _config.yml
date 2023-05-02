@@ -19,7 +19,7 @@ description: "Just a personal qwandorium space" # This will show up in places li
 ######### Nothing below needs to be changed (unless you know what you're doing) #########
 #########################################################################################
 minima:
-  skin: dark
+  skin: "dark"
 
 theme: "minima"
 
