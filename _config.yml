@@ -1,8 +1,8 @@
 # Setup
 title: Dark Poole
-url: https://getpoole.com
+url: https:qwandorium.github.io
 paginate: 1
-baseurl: ""
+baseurl: https:qwandorium.github.io
 permalink: pretty
 
 # Gems
