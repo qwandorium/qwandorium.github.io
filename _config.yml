@@ -2,7 +2,7 @@
 title: Qwandorium
 url: https:qwandorium.github.io
 paginate: 1
-baseurl: https:qwandorium.github.io
+baseurl: ""
 permalink: pretty
 
 # Gems
